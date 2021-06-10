@@ -15,7 +15,7 @@ can be formally modeled to quantify the impacts of timeliness as well as uncerta
 enabling analysis of the stability of the vehicle’s behavior and the stability of the vehicle/database interaction
 as a function of the averaging process
 
-# Who is involved (and invitation to become involved)
+# Group Members
 - [Prof. Sean Brennan](https://www.me.psu.edu/department/directory-detail-g.aspx?q=SNB10)
 
 <p align="left">
@@ -28,7 +28,6 @@ as a function of the averaging process
 - Prof. Kshitij Jerath
 
 
-
 # How it works
 
 Detection of surface friction conditions from a fleet of vehicles and the use of the aggregated data for safe operation of these vehicles
@@ -36,6 +35,8 @@ Detection of surface friction conditions from a fleet of vehicles and the use of
 <p align="center">
 <img src="https://raw.githubusercontent.com/ForgetfulDatabases/ForgetfulDatabases.github.io/67fe579a705f4fc8cf02355a02d533f31dad8e0b/assets/images/Forgetful%20Databases-%20Poster%20Middle%20Figure.svg"  height="430">
 </p>
+
+[For more details](https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0)
 
 # Code repositories
 
