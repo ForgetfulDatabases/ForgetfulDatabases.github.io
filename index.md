@@ -29,7 +29,7 @@ as a function of the averaging process
 
 
 
-# How it works (flow chart from NSF CPS meeting)
+# How it works
 
 Detection of surface friction conditions from a fleet of vehicles and the use of the aggregated data for safe operation of these vehicles
 
