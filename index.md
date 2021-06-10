@@ -68,8 +68,8 @@ Detection of surface friction conditions from a fleet of vehicles and the use of
 
 
 + The image below is a link. Try to click on it
-[![Little red riding hood](https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.png)](https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0 "Little red riding hood - Click to Watch!")
-
+[![Little red riding hood](https://uca1b7142f4cd7ba9d36f4f84629.previews.dropboxusercontent.com/p/thumb/ABOXbQRsIfZAsCckNBvBbkNaaSKDsEiIGadftFDPNwj6tIkCy575gzR4FzILqWgLqSNiAwZP8hVtYSbxDad43eGBKj3A3XaCYzYUQbGABkNMrVnIPX_raWdWoXWvn0ON1weWEk-qKaxoDPb3zwk16TmkemFagznQans6W0sGDq89jVxaL4ED6QD-0NlhOChhemD2h5YxJfNsu0Wa7OkQrzaVhqYpcop27wSCYgmxnLO8LkMKM70sOi_PdjOyCtnx0LsAC_0EVrWFvmO-h8D7-o_2U1UMbRVHwMEWNrO8rJT5IVDcZJKj5d_GE7WT3LMqzMaYzA0stvZPlDnGfpKbVlIf6Iwhv5LOtVCyFOWi1Sye8etnAxFNj20e1yIUknwcbNLw5yChD52qj5Llqdf5oM7a/p.png?fv_content=true&size_mode=5)](https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0 "Little red riding hood - Click to Watch!")
+ 
 
 
 # extra
