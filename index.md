@@ -19,7 +19,7 @@ as a function of the averaging process
 - [Prof. Sean Brennan](https://www.me.psu.edu/department/directory-detail-g.aspx?q=SNB10)
 
 <p align="left">
-<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/BRENNAN-SEAN.jpg"  height="350">
+<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/BRENNAN-SEAN.jpg?raw=true"  height="350">
 </p>
 
 
@@ -34,7 +34,7 @@ as a function of the averaging process
 Detection of surface friction conditions from a fleet of vehicles and the use of the aggregated data for safe operation of these vehicles
 
 <p align="center">
-<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/Forgetful%20Databases-%20Poster%20Middle%20Figure.svg"  height="400">
+<img src="https://raw.githubusercontent.com/ForgetfulDatabases/ForgetfulDatabases.github.io/67fe579a705f4fc8cf02355a02d533f31dad8e0b/assets/images/Forgetful%20Databases-%20Poster%20Middle%20Figure.svg"  height="430">
 </p>
 
 # Code repositories
@@ -47,7 +47,7 @@ Detection of surface friction conditions from a fleet of vehicles and the use of
 + [P1 electric drive-by-wire vehicle](http://www.projects.bucknell.edu/Beal_Automotive/#data)
 
 <p align="center">
-<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/p1_smaller.jpg"  height="400">
+<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/p1_smaller.jpg?raw=true"  height="400">
 </p>
 
 + mapping van
@@ -60,9 +60,7 @@ Detection of surface friction conditions from a fleet of vehicles and the use of
 [1] L. Gao et al., “A Micro-simulation Framework for Studying CAVs Behavior and Control Utilizing a Traffic Simulator, Chassis Simulation, and a Shared Roadway Friction Database,” in 2021 American Control Conference (ACC), 2021.
 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ForgetfulDatabases/ForgetfulDatabases.github.io/67fe579a705f4fc8cf02355a02d533f31dad8e0b/assets/images/Forgetful%20Databases-%20Poster%20Middle%20Figure.svg"  height="400">
-</p>
+
 
 # Images and Media
 + [CPS_LightningTalk ](https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.mp4)
@@ -72,7 +70,7 @@ Detection of surface friction conditions from a fleet of vehicles and the use of
 
 
 + The image below is a link. Try to click on it
-[![Little red riding hood](https://uca1b7142f4cd7ba9d36f4f84629.previews.dropboxusercontent.com/p/thumb/ABOXbQRsIfZAsCckNBvBbkNaaSKDsEiIGadftFDPNwj6tIkCy575gzR4FzILqWgLqSNiAwZP8hVtYSbxDad43eGBKj3A3XaCYzYUQbGABkNMrVnIPX_raWdWoXWvn0ON1weWEk-qKaxoDPb3zwk16TmkemFagznQans6W0sGDq89jVxaL4ED6QD-0NlhOChhemD2h5YxJfNsu0Wa7OkQrzaVhqYpcop27wSCYgmxnLO8LkMKM70sOi_PdjOyCtnx0LsAC_0EVrWFvmO-h8D7-o_2U1UMbRVHwMEWNrO8rJT5IVDcZJKj5d_GE7WT3LMqzMaYzA0stvZPlDnGfpKbVlIf6Iwhv5LOtVCyFOWi1Sye8etnAxFNj20e1yIUknwcbNLw5yChD52qj5Llqdf5oM7a/p.png?fv_content=true&size_mode=5)](https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0 "Little red riding hood - Click to Watch!")
+[![Little red riding hood](https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.png?raw=true "Little red riding hood - Click to Watch!")
  
 
 
