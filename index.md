@@ -62,12 +62,17 @@ Detection of surface friction conditions from a fleet of vehicles and the use of
 
 # Images and Media
 + [CPS_LightningTalk ](https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.mp4)
-+ [CPS_LightningTalk ](https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0)
++ The image below is a link. Try to click on it
+
+    <a href="https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0"><img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.png" alt="CPS_LightningTalk_v2"  height="200"></a>
+
+
++ The image below is a link. Try to click on it
+[![Little red riding hood](https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.png)](https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0 "Little red riding hood - Click to Watch!")
 
 
 
 # extra
-<a href="{https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.mp4}" title="Link Title"><img src="{https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.mp4}" alt="Alternate Text" /></a>
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="https://www.dropbox.com/s/2gv2ns00ey1uh7w/CPS_LightningTalk_v2.png?dl=0">
