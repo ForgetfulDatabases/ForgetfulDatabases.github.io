@@ -16,10 +16,10 @@ enabling analysis of the stability of the vehicle’s behavior and the stability
 as a function of the averaging process
 
 # Who is involved (and invitation to become involved)
-- Prof. Sean Brennan
+- [Prof. Sean Brennan](https://www.me.psu.edu/department/directory-detail-g.aspx?q=SNB10)
 
 <p align="left">
-<img src="https://octodex.github.com/images/yaktocat.png"  height="350">
+<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/Images/BRENNAN-SEAN.jpg"  height="350">
 </p>
 
 
