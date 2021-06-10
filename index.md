@@ -2,14 +2,48 @@
 layout: default
 ---
 
+This is the webpage for NSF Forgetful Database project. 
 
 # Purpose
+
+This proposal seeks implementation-proven answers to the question: when do data expire? The proposed work is motivated by a cyber-physical transportation application
+– fleets of connected and autonomous vehicles (CAVs) driving on potentially icy roads, where safety-critical
+road friction information is shared via a wireless data link to a central database that mediates data averaging.
+The insight of our approach is to treat the database as a sensor to the vehicle, and the aggregation of
+data within the database as a sensor-averaging process. This abstraction reveals that the database functionality
+can be formally modeled to quantify the impacts of timeliness as well as uncertainty of information,
+enabling analysis of the stability of the vehicle’s behavior and the stability of the vehicle/database interaction
+as a function of the averaging process
+
 # Who is involved (and invitation to become involved)
+- Prof. Sean Brennan
+
+<p align="left">
+<img src="https://octodex.github.com/images/yaktocat.png"  height="350">
+</p>
+
+
+- Prof. Cindy Chen
+- Prof. Craig Beal
+- Prof. Kshitij Jerath
+
+
+
 # How it works (flow chart from NSF CPS meeting)
+
+
 # Code repositories
+
+
 # Vehicle information
+
+
 # Digital twins (maybe?)
+
+
 # Publication list (and links to these)
+
+
 # Images and Media
 
 
