@@ -66,7 +66,7 @@ Detection of surface friction conditions from a fleet of vehicles and the use of
 + [CPS_LightningTalk ](https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.mp4)
 + The image below is a link. Try to click on it
 
-    <a href="https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0"><img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.png" alt="CPS_LightningTalk_v2"  height="200"></a>
+    <a href="https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0"><img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.png?raw=true" alt="CPS_LightningTalk_v2"  height="200"></a>
 
 
 + The image below is a link. Try to click on it
