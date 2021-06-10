@@ -44,18 +44,37 @@ Detection of surface friction conditions from a fleet of vehicles and the use of
 
 
 # Vehicle information
++ [P1 electric drive-by-wire vehicle](http://www.projects.bucknell.edu/Beal_Automotive/#data)
 
+<p align="center">
+<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/p1_smaller.jpg"  height="400">
+</p>
+
++ mapping van
 
 # Digital twins (maybe?)
 
++ [Digital twins](https://github.com/ivsg-psu/Databases_Projects_DigitalTwin)
 
 # Publication list (and links to these)
+[1] L. Gao et al., “A Micro-simulation Framework for Studying CAVs Behavior and Control Utilizing a Traffic Simulator, Chassis Simulation, and a Shared Roadway Friction Database,” in 2021 American Control Conference (ACC), 2021.
 
 
 # Images and Media
++ [CPS_LightningTalk ](https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.mp4)
++ [CPS_LightningTalk ](https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0)
 
 
 
+# extra
+<a href="{https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.mp4}" title="Link Title"><img src="{https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.mp4}" alt="Alternate Text" /></a>
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="https://www.dropbox.com/s/2gv2ns00ey1uh7w/CPS_LightningTalk_v2.png?dl=0">
+    <source src="https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0" type="video/mp4">
+  
+  </video>
+</figure>
 
 
 
