@@ -60,6 +60,10 @@ Detection of surface friction conditions from a fleet of vehicles and the use of
 [1] L. Gao et al., “A Micro-simulation Framework for Studying CAVs Behavior and Control Utilizing a Traffic Simulator, Chassis Simulation, and a Shared Roadway Friction Database,” in 2021 American Control Conference (ACC), 2021.
 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/ForgetfulDatabases/ForgetfulDatabases.github.io/67fe579a705f4fc8cf02355a02d533f31dad8e0b/assets/images/Forgetful%20Databases-%20Poster%20Middle%20Figure.svg"  height="400">
+</p>
+
 # Images and Media
 + [CPS_LightningTalk ](https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.mp4)
 + The image below is a link. Try to click on it
