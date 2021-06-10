@@ -19,7 +19,7 @@ as a function of the averaging process
 - [Prof. Sean Brennan](https://www.me.psu.edu/department/directory-detail-g.aspx?q=SNB10)
 
 <p align="left">
-<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/Images/BRENNAN-SEAN.jpg"  height="350">
+<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/BRENNAN-SEAN.jpg"  height="350">
 </p>
 
 
@@ -31,8 +31,16 @@ as a function of the averaging process
 
 # How it works (flow chart from NSF CPS meeting)
 
+Detection of surface friction conditions from a fleet of vehicles and the use of the aggregated data for safe operation of these vehicles
+
+<p align="center">
+<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/Forgetful%20Databases-%20Poster%20Middle%20Figure.svg"  height="400">
+</p>
 
 # Code repositories
+
+* [VehicleSimulations_ProjectExamples_NSFForgetfulDatabases](https://github.com/ivsg-psu/VehicleSimulations_ProjectExamples_NSFForgetfulDatabases)
+* [forgetfulDBs](https://github.com/cbealBU/forgetfulDBs)
 
 
 # Vehicle information
