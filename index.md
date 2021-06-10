@@ -44,20 +44,28 @@ Detection of surface friction conditions from a fleet of vehicles and the use of
 
 
 # Vehicle information
++ [P1 electric drive-by-wire vehicle](http://www.projects.bucknell.edu/Beal_Automotive/#data)
 
+<p align="center">
+<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/p1_smaller.jpg"  height="400">
+</p>
+
++ mapping van
 
 # Digital twins (maybe?)
 
++ [Digital twins](https://github.com/ivsg-psu/Databases_Projects_DigitalTwin)
 
 # Publication list (and links to these)
+[1] L. Gao et al., “A Micro-simulation Framework for Studying CAVs Behavior and Control Utilizing a Traffic Simulator, Chassis Simulation, and a Shared Roadway Friction Database,” in 2021 American Control Conference (ACC), 2021.
 
 
 # Images and Media
-
-
-
-
-
++ [CPS_LightningTalk ](https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/video/CPS_LightningTalk_v2.mp4)
++ 
+<p align="center">
+<img src="https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/p1_smaller.jpg"  height="400">
+</p>
 
 
 # Header 1
