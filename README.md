@@ -6,8 +6,9 @@ Webpage repo and launch site for the Forgetful Databases work
 https://forgetfuldatabases.github.io/
 
 # Reference 
-* theme: https://github.com/pages-themes/cayman
+* Page theme: https://github.com/pages-themes/cayman
 * Pictures layout: https://owlcation.com/stem/how-to-align-images-side-by-side
+* About scss: https://beginor.github.io/2014/07/11/introduction-to-scss.html
 
 # Notes
 + Liming is using the index.md to generate the website because it is easire to use. We can convert the .md file into .html file using [pandoc](https://pandoc.org/) or other tools.  Of cousre, we can edit a html file directly.
@@ -15,4 +16,4 @@ https://forgetfuldatabases.github.io/
    1. When copy the image link at github, we need to find the image and right click on it, and then select "copy image address". Otherwise, the image can not be shown correctly at website libk. This may result from the private setting of repo. 
    2. When embed video, it is recommended to put the vidoe file at dropbox or youtube, and then use screenshoot of the video as a link. The video at github can not be played correctly. 
 
-+ about scss https://beginor.github.io/2014/07/11/introduction-to-scss.html
++ 
