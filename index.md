@@ -23,6 +23,22 @@ as a function of the averaging process
 </p>
 
 
+<figure>
+    <img src='https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/BRENNAN-SEAN.jpg?raw=true' alt='missing'height="350" />
+    <figcaption>
+        <a href="https://www.w3schools.com">Sean Brennan</a>
+    </figcaption>
+</figure>
+
+<figure>
+    <img src='https://github.com/ForgetfulDatabases/ForgetfulDatabases.github.io/blob/main/assets/images/BRENNAN-SEAN.jpg?raw=true' alt='missing'height="350" />
+    <figcaption>
+        <a href="https://www.w3schools.com">Sean Brennan</a>
+    </figcaption>
+</figure>
+
+
+
 - Prof. Cindy Chen
 - Prof. Craig Beal
 - Prof. Kshitij Jerath
