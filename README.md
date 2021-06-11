@@ -5,6 +5,9 @@ Webpage repo and launch site for the Forgetful Databases work
 
 https://forgetfuldatabases.github.io/
 
+# Reference 
+https://github.com/pages-themes/cayman
+
 # Notes
 + Liming is using the index.md to generate the website because it is easire to use. We can convert the .md file into .html file using [pandoc](https://pandoc.org/) or other tools.  Of cousre, we can edit a html file directly.
 + Some tips for the index.md file editing:
