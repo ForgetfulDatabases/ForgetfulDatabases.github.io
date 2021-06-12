@@ -7,15 +7,34 @@ layout: default
  
 <br>
 
-<h1>Purpose</h1>
+<h1>Background</h1>
 
     <p style="line-height:175%">
-    This proposal seeks implementation-proven answers to the question: when do data expire? The proposed work is motivated by a cyber-physical transportation application – fleets of connected and autonomous vehicles (CAVs) driving on potentially icy roads, where safety-critical road friction information is shared via a wireless data link to a central database that mediates data averaging.
+    This Proejct seeks implementation-proven answers to the question: when do data expire? The proposed work is motivated by a cyber-physical transportation application – fleets of connected and autonomous vehicles (CAVs) driving on potentially icy roads, where safety-critical road friction information is shared via a wireless data link to a central database that mediates data averaging.
     The insight of our approach is to treat the database as a sensor to the vehicle, and the aggregation of data within the database as a sensor-averaging process. This abstraction reveals that the database functionality
     can be formally modeled to quantify the impacts of timeliness as well as uncertainty of information, enabling analysis of the stability of the vehicle’s behavior and the stability of the vehicle/database interaction
     as a function of the averaging process
     </p>
+    <hr>
 
+<h1>Objectives</h1>
+    
+    <p style="line-height:175%">
+        In V2x systems, databases operate in feedback loops and can enter “locked-up” conditions : 
+        <ul>
+            <li>
+                We want databases to store and share data, but need them to forget “old” dat
+            </li>
+            <li>
+                We want vehicles to measure data, but each vehicle needs data recorded by others.
+            </li>
+            <li>
+                We want the vehicles to maneuver enough to create accurate data, but need vehicles to be stable.
+            </li>
+            
+        </ul>
+    </p>
+    <hr>
 
 <h1>Team Members</h1>
     <h2>Project PIs</h2>
@@ -109,10 +128,10 @@ layout: default
     <hr>
 
 
-<h1>How it works</h1>
-
-
-    Detection of surface friction conditions from a fleet of vehicles and the use of the aggregated data for safe operation of these vehicles
+<h1>Achievements</h1>
+    <p style="line-height:175%">
+        Detection of surface friction conditions from a fleet of vehicles and the use of the aggregated data for safe operation of these vehicles
+    </p>
 
     <p align="center">
     <img src="https://raw.githubusercontent.com/ForgetfulDatabases/ForgetfulDatabases.github.io/67fe579a705f4fc8cf02355a02d533f31dad8e0b/assets/images/Forgetful%20Databases-%20Poster%20Middle%20Figure.svg"  height="430">
@@ -120,16 +139,56 @@ layout: default
 
     <a href="https://www.dropbox.com/s/s51lge60llt72c5/CPS_LightningTalk_v2.mp4?dl=0">For more details</a>
 
-    <h1>Code repositories</h1>
+<hr>
 
+<h1>How it works</h1>
+    <p style="line-height:175%">
+        The solution includes: 
         <ul>
             <li>
-                <a href="https://github.com/ivsg-psu/VehicleSimulations_ProjectExamples_NSFForgetfulDatabases">VehicleSimulations_ProjectExamples_NSFForgetfulDatabases</a>
+                Use Allan Variance (AVAR) to dynamically identify meaning of “old” data and optimal averaging windows.
             </li>
             <li>
-                <a href="https://github.com/cbealBU/forgetfulDBs">forgetfulDBs</a>
+                Develop idea of context to organize and discover properties of data that further refine variance.
+            </li>
+            <li>
+                Organize database systems for optimal Allan Variance calculations.
+            </li>
+            <li>
+                Test results via synchronization of regional-level traffic simulators with chassis simulators, and with a steer-by-wire instrumented vehicle.
             </li>
         </ul>
+        The solution includes: 
+        <ul>
+            <li>
+                Fast variance codebase with 10^4 speed improvement.
+            </li>
+            <li>
+                Proved variance method gives optimal averaging windows.
+            </li>
+            <li>
+                Developed analytical solution for minimum preview necessary for chassis control with changing friction.
+            </li>
+            <li>
+                Designed and tested database organization structures to support AVAR.
+            </li>
+            <li>
+                Developed tools to encompass regions of influence (ROI) for perturbation analysis of vehicle impacts.
+            </li>
+        </ul>
+
+    </p>
+<hr>
+<h1>Code repositories</h1>
+
+    <ul>
+        <li>
+            <a href="https://github.com/ivsg-psu/VehicleSimulations_ProjectExamples_NSFForgetfulDatabases">VehicleSimulations_ProjectExamples_NSFForgetfulDatabases</a>
+        </li>
+        <li>
+            <a href="https://github.com/cbealBU/forgetfulDBs">forgetfulDBs</a>
+        </li>
+    </ul>
 
 <hr>
 <h1>Vehicle information</h1>
@@ -185,9 +244,6 @@ layout: default
             L. Sinanaj, H. Haeri, K. Jerath, and C. Chen, “Allan Variance-based Granulation Technique for Large Temporal Databases,” in 13th International Conference on Knowledge Management and Information Systems (KMIS), 2021.
         </li>
 
-
-
-
     </ol>
 
 
@@ -204,6 +260,29 @@ layout: default
         </li>
 
     </ul>
+
+    <hr>
+<h1>Broader Impacts:</h1>
+
+    <p style="line-height:175%">
+        The broader impacts of the proposed work are: 
+        <ul>
+            <li>
+                This work can save lives and suffering by improving safety-critical decision-making used by CAVs driving under dangerous operational situations.
+            </li>
+            <li>
+                The methods and algorithms developed in this  work can guide the deployment of all database systems wherein trust in data quality versus timeliness of information
+                are competing factors: healthcare, transportation, news systems and social communication, food quality and inspection systems, etc.
+            </li>
+            <li>
+                It broadens participation in our research community via a workshop for practicing system engineers on Allan variance and on database stability/performance as it relates to feedback control; participation of college-level students via a distributed undergrad/grad curriculum for senior and early graduate-level systems engineers that connects database systems to mechatronics and 
+                automation; and outreach to incoming students, namely the recruitment of new engineers through summer camp activities.              quality and inspection systems, etc.
+            </li>
+            
+        </ul>
+    </p>
+
+    <hr>
 
 <h1>Funding</h1>
     <p>
