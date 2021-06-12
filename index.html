@@ -9,7 +9,7 @@ layout: default
 
 <h1>Purpose</h1>
 
-    <p style="line-height:125%">
+    <p style="line-height:175%">
     This proposal seeks implementation-proven answers to the question: when do data expire? The proposed work is motivated by a cyber-physical transportation application – fleets of connected and autonomous vehicles (CAVs) driving on potentially icy roads, where safety-critical road friction information is shared via a wireless data link to a central database that mediates data averaging.
     The insight of our approach is to treat the database as a sensor to the vehicle, and the aggregation of data within the database as a sensor-averaging process. This abstraction reveals that the database functionality
     can be formally modeled to quantify the impacts of timeliness as well as uncertainty of information, enabling analysis of the stability of the vehicle’s behavior and the stability of the vehicle/database interaction
@@ -150,29 +150,47 @@ layout: default
 <hr>
 <h1>Publication list (and links to these)</h1>
     
-    <p style="margin-left:1.5%;line-height:125%" > 
-        [1] L. Gao et al., “A Micro-simulation Framework for Studying CAVs Behavior and Control Utilizing a Traffic Simulator, Chassis Simulation, and a Shared Roadway Friction Database,” in 2021 American Control Conference (ACC), 2021.
-        <br>
-        [2] L. Gao et al., “Boundary-based Representation and Data Sharing of Road Surface Friction for CAVs,” in 2021 Road Safety and Simulation International Conference (RSS),abstract accepted, 2021.
-        <br>
-        [3] L. Gao, C. Beal, D. Fescenmyer, and S. Brennan, “Analytical Longitudinal Speed Planning for CAVs with Previewed Road Geometry and Friction Constraints,” in 2021 IEEE International Intelligent Transportation Systems Conference (ITSC),regular paper submitted, 2021.
-        <br>
-        [4] L. Gao, W. Bai, R. Leary, K. Varadarajan, and S. Brennan, “ROS Integration of External Vehicle Motion Simulations with an AIMSUN Traffic Simulator as a Tool to Assess CAV Impacts on Traffic,” in 2021 Modeling, Estimation and Control Conference (MECC),Invited paper submitted, 2021.
-        <br>
-        [5] S. Maddipatla and S. Brennan, “Synchronization and Feedback Loop Integration of a Non-real Time Microscopic Traffic Simulation with a Real-time Driving Simulator using Model-Based Prediction,” in 2021 American Control Conference (ACC), 2021.
-        <br>
-        [6] S. Maddipatla, H. Haeri, K. Jerath, and S. Brennan, “Fast Allan Variance (FAVAR) and Dynamic Fast Allan Variance (D-FAVAR) Algorithms for both Regularly and Irregularly Sampled Data,” in 2021 Modeling, Estimation and Control Conference (MECC),paper submitted, 2021.
-        <br>
-        [7] W. Bai et al., “Determining the region of influence of ego vehicle on fuel economy of surrounding traffic utilizing traffic simulators and vehicle powertrain modeling,” in 2021 Road Safety and Simulation International Conference (RSS),abstract accepted, 2021.
-        <br>
-        [8] H. Haeri, C. E. Beal, and K. Jerath, “Near-Optimal Moving Average Estimation at Characteristic Timescales: An Allan Variance Approach,” IEEE Control Syst. Lett., vol. 5, no. 5, pp. 1531–1536, 2020.
-        <br>
-        [9] H. Haeri, K. Jerath, and J. Leachman, “Thermodynamics-inspired macroscopic states of bounded swarms,” ASME Lett. Dyn. Syst. Control, vol. 1, no. 1, 2021.
-        <br>
-        [10] C. E. Beal and S. Brennan, “Friction detection from stationary steering manoeuvres,” Veh. Syst. Dyn., vol. 58, no. 11, pp. 1736–1765, 2020.
-        <br>
-        [11] L. Sinanaj, H. Haeri, K. Jerath, and C. Chen, “Allan Variance-based Granulation Technique for Large Temporal Databases,” in 13th International Conference on Knowledge Management and Information Systems (KMIS), 2021.
-    </p>
+    <ol>
+        <li>
+            L. Gao et al., “A Micro-simulation Framework for Studying CAVs Behavior and Control Utilizing a Traffic Simulator, Chassis Simulation, and a Shared Roadway Friction Database,” in 2021 American Control Conference (ACC), 2021.
+        </li>
+        <li>
+            L. Gao et al., “Boundary-based Representation and Data Sharing of Road Surface Friction for CAVs,” in 2021 Road Safety and Simulation International Conference (RSS),abstract accepted, 2021.  
+        </li>
+        <li>
+            L. Gao, C. Beal, D. Fescenmyer, and S. Brennan, “Analytical Longitudinal Speed Planning for CAVs with Previewed Road Geometry and Friction Constraints,” in 2021 IEEE International Intelligent Transportation Systems Conference (ITSC),regular paper submitted, 2021.
+        </li>
+        <li>
+            L. Gao, W. Bai, R. Leary, K. Varadarajan, and S. Brennan, “ROS Integration of External Vehicle Motion Simulations with an AIMSUN Traffic Simulator as a Tool to Assess CAV Impacts on Traffic,” in 2021 Modeling, Estimation and Control Conference (MECC),Invited paper submitted, 2021.
+        </li>
+        <li>
+            S. Maddipatla and S. Brennan, “Synchronization and Feedback Loop Integration of a Non-real Time Microscopic Traffic Simulation with a Real-time Driving Simulator using Model-Based Prediction,” in 2021 American Control Conference (ACC), 2021.
+        </li>
+        <li>
+            S. Maddipatla, H. Haeri, K. Jerath, and S. Brennan, “Fast Allan Variance (FAVAR) and Dynamic Fast Allan Variance (D-FAVAR) Algorithms for both Regularly and Irregularly Sampled Data,” in 2021 Modeling, Estimation and Control Conference (MECC),paper submitted, 2021.
+        </li>
+        <li>
+            W. Bai et al., “Determining the region of influence of ego vehicle on fuel economy of surrounding traffic utilizing traffic simulators and vehicle powertrain modeling,” in 2021 Road Safety and Simulation International Conference (RSS),abstract accepted, 2021.
+        </li>
+        <li>
+            H. Haeri, C. E. Beal, and K. Jerath, “Near-Optimal Moving Average Estimation at Characteristic Timescales: An Allan Variance Approach,” IEEE Control Syst. Lett., vol. 5, no. 5, pp. 1531–1536, 2020.
+        </li>
+        <li>
+            H. Haeri, K. Jerath, and J. Leachman, “Thermodynamics-inspired macroscopic states of bounded swarms,” ASME Lett. Dyn. Syst. Control, vol. 1, no. 1, 2021.
+        </li>
+        <li>
+            C. E. Beal and S. Brennan, “Friction detection from stationary steering manoeuvres,” Veh. Syst. Dyn., vol. 58, no. 11, pp. 1736–1765, 2020.
+        </li>
+        <li>
+            L. Sinanaj, H. Haeri, K. Jerath, and C. Chen, “Allan Variance-based Granulation Technique for Large Temporal Databases,” in 13th International Conference on Knowledge Management and Information Systems (KMIS), 2021.
+        </li>
+
+
+
+
+    </ol>
+
+
 
 <hr>
 <h1>Images and Media</h1>
